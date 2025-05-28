@@ -1,0 +1,405 @@
+Group,Age,Years_RN,Years_prsent_asst,Educ,Education,Curr_address,Mstatus,Sex_female,Location_Urban,Rank_Position,Type_contract,Exp_caring_HIV_P,NCV1,NCV2,NCV3,NCV4,NCV5,NCV6,NCV7,NCV8,NCV9,NCB1,NCB2,NCB3,NCB4,NCB5,NCB6,NCB7,NCB8,NCB9,NCB10
+Hospital,38,1,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,4,5,5,5,3,5,5,5,5,5,5,5,5
+Hospital,31,10,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,33,4,1.6,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5,4,3,2,3
+Hospital,23,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,2
+Hospital,28,7,NA,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,2,4,5,5,4,4,4,5,4,4
+Hospital,22,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,3,3,4,3,3,3
+Hospital,28,7,7,BSN,1,Visayas,Married,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4,3
+Hospital,27,6,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,30,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,4,4,3,4,5,5,5,3,3,4,4,4,4,4,4,4,4
+Hospital,33,10,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,4,4,5,4,4,5,4,5,4,3,3,4,4,3,4,4,4,5,4
+Hospital,29,9,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,3,5,5,2
+Hospital,28,7,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,4,5,5,4,5,5,5,5,2,3,4,5,4,3,3,3,4,3
+Hospital,34,14,3,MAN,2,Visayas,Unmarried,0,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5,5,5,4,4
+Hospital,38,16,10,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,,3,4,5,5,5,5,5,4,4
+Hospital,41,6,5,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,46,10,4,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,4,4
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,4
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,3,5,4,4,3,3
+Hospital,36,15,1,BSN,1,Visayas,Unmarried,0,1,Managerial Position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4
+Hospital,32,11,4,MAN,2,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,5,4,4,4,4,5,5,4,5,5,5,5,5,4,5,4,3
+Hospital,34,14,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,4,5,5,3,4,4,5,5,4,4,3,4,3
+Hospital,28,7,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,4,2
+Hospital,27,5,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,4,5,5,4,5,4,4,4,4,2,4,3,3,3,3
+Hospital,26,3,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4,2,2
+Hospital,28,6,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,4,4,4,5,5,4,4,2,3,4,4,4,4,4,3,3,3
+Hospital,29,6,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,4,3,4,4,4,5,4,4,5,4
+Hospital,23,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5,5,4,4,4
+Hospital,35,10,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,2
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,No,5,5,4,4,5,4,5,5,5,4,3,5,4,5,4,5,5,4,3
+Hospital,22,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,No,4,4,5,3,4,4,4,3,5,4,4,4,4,4,3,4,3,3,3
+Hospital,30,5,5,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,4
+Hospital,30,1,Less than 1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,3,5,4,4,3,3
+Hospital,31,2,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,3,5,4,4,3,3
+Hospital,29,7,7,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,4,5,4,3
+Hospital,26,6,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,4,5,5,5,5,2,2,5,5,5,5,2,1,2,4
+Hospital,22,2,2,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,24,2,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,2,4,4
+Hospital,29,8,8,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,4,5,5,5,4,4,4,4,3,3,4,4,4,4,3,4,3,3
+Hospital,22,1,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,4,4,5,4,4,5,4,4
+Hospital,29,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,4,5,4,5,5,4,4,4,4,4,2,2,2,5,5,3,5,5,5
+Hospital,28,3,3,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,3,2,3,3,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+Hospital,28,5,4,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,5,4,3,5,5,5
+Hospital,30,10,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,27,5,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,4,5,5,5,5,3,5,5,4
+Hospital,22,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,2
+Hospital,35,11,9,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,20,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,4,4,4,3,4,4,4,4,4,5,4,5,5,5,5,5,5,3,2
+Hospital,33,8,4,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,No,5,5,4,4,4,4,5,5,5,5,4,5,3,5,5,5,5,5,2
+Hospital,22,4,4,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,2
+Hospital,26,5,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,4,3,4,4,4,4,4,5,4,5,5,5,5,5,5,3,2
+Hospital,40,7,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,4,3,4,4,4,4,4,5,4,5,5,5,5,5,5,3,2
+Hospital,24,2,2,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,2,4,4,4,4,4,3,4,2
+Hospital,25,3,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,3,3,5,4,3,3,3,2,2,2,3,3,3,3,3,4,4
+Hospital,23,1,1,BSN,1,Visayas,Married,0,1,Staff Nurse,Permanent,Yes,3,4,4,4,4,4,3,3,3,4,4,4,4,4,4,4,4,3,3
+Hospital,36,14,10,MAN,2,Visayas,Married,1,1,Managerial Position,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,5,5,5,5,5,5
+Hospital,27,6,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,3,5,3,5,3,3
+Hospital,24,2,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,2,5,5,3,5,4,2,4,2
+Hospital,22,1,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,Yes,5,4,4,4,4,4,4,4,4,2,4,4,4,4,4,3,4,4,2
+Hospital,24,5,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,3,5,3,5,3,3
+Hospital,25,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,5,3,3,3,3,3,3,2,5,3,3,4,3,3,3,3,3
+Hospital,26,3,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,4,4,5,5,5,4,5,4
+Hospital,26,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,1,2
+Hospital,35,12,6,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,4,4,4,4,5,5,5,3,3,2,2,3,3,3,5,3,5,4,3
+Hospital,24,3,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,5,5,4,5,5,5,3,3,3,5,4,4,4,3,5,3
+Hospital,30,9,2,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,3,5,5,5,5,5,2
+Hospital,45,18,4,BSN,1,Visayas,Married,0,1,Managerial Position,Permanent,No,5,5,5,5,5,5,5,4,5,5,4,5,5,5,5,2,2,2,3
+Hospital,26,4,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,,,,,,,,,,,,,,,,,,,
+Hospital,26,4,4,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,3,1,4,5,4,4,4,3,4,2
+Hospital,31,11,1,BSN,1,Visayas,Married,0,1,Staff Nurse,Permanent,Yes,4,4,4,5,5,5,5,4,4,4,3,4,4,4,4,4,5,4,3
+Hospital,26,5,2,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,Yes,4,4,4,4,4,4,4,5,5,3,5,5,5,5,5,4,5,4,3
+Hospital,31,11,3,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,2
+Hospital,32,12,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,25,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,4,5,5,5,4,5,4,3,5,4,4,4,4,4,4,3
+Hospital,27,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,No,5,4,4,5,5,5,5,5,5,1,3,5,5,4,3,3,3,3,3
+Hospital,27,4,4,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,4,4,4,5,5,5,4,5,4,3,5,4,4,4,4,4,4,3
+Hospital,26,5,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,3,3
+Hospital,42,20,17,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,4,4,4,4,5,4,4,4,4,4,4,5,4,4,5,4,4,3
+Hospital,,,,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,3,5,5,5,5,5,5,3,3
+Hospital,28,8,7,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,1
+Hospital,27,6,7,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,28,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,3,5,5,5,4,4,4,4,4,4,4,4,4,3
+Hospital,27,7,5,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,4,5,5,5,3,4,3,5
+Hospital,23,2,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,34,13,10,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5
+Hospital,22,3,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,3,4
+Hospital,31,10,6,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+Hospital,30,3,2,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,1,5,4,5,5,2,2,4,2
+Hospital,23,2,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,4
+Hospital,26,6,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,4,5,4,5,5,5,5,2,3,4,4,5,3,4,3,4,4
+Hospital,32,10,5,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,4,5,5,5,5,5,5,4,4,4,4,4,5,5,4,4,4
+Hospital,27,5,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,4,3
+Hospital,22,2,1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,4,5,5,5,5,4,1,2,3
+Hospital,33,2,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,4,3,4,4,5,5,5,3,3,3,3,4,4,5,3,4
+Hospital,24,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5,3,2,2
+Hospital,39,6,5,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,No,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Hospital,26,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,4,2,5,3,4,3,4,1,2,4,4,4,4,4,4,4,4
+Hospital,24,3,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,1,1,1,1,1,1,1,1,1,4,4,5,5,5,5,4,5,4,2
+Hospital,29,7,5,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3
+Hospital,27,7,2,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,4,5,1,1
+Hospital,28,6,3,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,40,17,16,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,4,5,1,1
+Hospital,29,8,Less than 1,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,4,5,2,3
+Hospital,27,6,6,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,3,5
+Hospital,33,1,Less than 1,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Permanent,Yes,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Hospital,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,3,2,4,4,4,5,5,5,5,5,5,5,4,3,4,2
+Hospital,29,6,5,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,29,8,4,BSN,1,Visayas,Unmarried,0,1,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,5,5,3,5
+Hospital,26,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,3,3,4,4,3,3,3,4,4,4
+Hospital,28,4,4,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,3
+Hospital,32,11,9,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,24,5,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,4,5,4,4,5,5,5,5,5,5,3,5,5,5,5,3
+Hospital,20,1,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Hospital,32,11,10,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,4,5
+Hospital,26,6,6,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,4,5,3,4,5,3
+Hospital,33,12,11,BSN,1,Visayas,Married,0,1,Managerial Position,Permanent,Yes,4,4,4,4,4,4,4,4,4,5,5,5,5,4,5,4,5,4,5
+Hospital,24,2,2,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4
+Hospital,24,2,2,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,4,4,3,4,2,3,5,5,4,5,5,3,3,3,3,3,2
+Hospital,22,1,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,3,4,5,5,5,3,5,5,4
+Hospital,28,1,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,5,4,3,5,4,3,5,5,5,5,5,4,4,4,5,4,3
+Hospital,27,5,5,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,2,3,5,3
+Hospital,26,5,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,4,2,5,3,4,3,4,1,2,4,4,4,4,4,4,4,4
+Hospital,25,4,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,30,10,1,BSN,1,Visayas,Married,1,1,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Hospital,25,5,5,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,4,5,4,4,5,4
+Hospital,49,29,2,MAN,2,Visayas,Married,1,1,Managerial Position,Permanent,Yes,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,4,5,5,1
+Hospital,31,11,9,MAN,2,Visayas,Unmarried,1,1,Managerial Position,Permanent,Yes,5,5,5,5,4,5,4,5,5,5,4,5,5,4,5,3,5,4,4
+Hospital,29,7,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,4,4,5,4,5,5,5,3,5,5,5,2,2
+Hospital,41,21,3,MAN,2,Visayas,Unmarried,1,1,Managerial Position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,3,5,4,2
+Hospital,30,10,4,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,4,4,5,5,3,5,5,5,3,3,4,5,4,5,3,3,4,3
+Hospital,25,3,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,4,5,5,5,5,3
+Hospital,28,7,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,4,4,4,4,3,4,2,3,5,5,4,5,5,3,3,3,3,3,2
+Hospital,28,7,3,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,3
+Hospital,27,5,1,BSN,1,Visayas,Unmarried,1,1,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,2,2
+Samar,30,9,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,2,3,5,5,5,5,5,5,5,3
+Samar,22,2,2,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,3
+Samar,28,5,5,BSN,1,Visayas,Unmarried,1,0,Managerial Position,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,5,4,3
+Samar,25,3,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,3,4
+Samar,31,10,10,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Permanent,Yes,5,5,5,5,4,5,5,5,5,3,4,5,5,5,5,2,4,3,3
+Samar,32,2,1,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,No,4,1,4,1,1,1,1,1,1,4,4,4,4,4,4,4,2,2,2
+Samar,26,3,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5
+Samar,24,3,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,2,2
+Samar,34,13,10,BSN,1,Visayas,Married,0,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,3,5,5,4
+Samar,31,7,2,BSN,1,Visayas,Married,0,0,Staff Nurse,Casual/Part-time,Yes,5,4,4,4,4,4,4,4,4,4,5,5,5,3,5,5,5,4,3
+Samar,22,1,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,4
+Samar,32,1,1,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,5,5,4,5,5,5,5,5,5,4,4,5,5,4,5,5,5,4,4
+Samar,29,7,7,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,5,3
+Samar,37,2,1,BSN,1,Visayas,Married,0,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,2,2,5,5,5,5,3,5,2,3
+Samar,29,7,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,4,5,5,5,5,5,4,5,5,5,5,5,4,5,5,4
+Samar,27,6,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,4,5,5,5,5,4,4,5,5,5,5,4,3,3,3
+Samar,23,2,2,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,4,5,3,2
+Samar,32,11,10,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,4,4
+Samar,40,7,3,BSN,1,Visayas,Married,0,0,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,3,4,4,4,4,4,4,4,4,3
+Samar,23,1,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+Samar,49,27,26,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Samar,22,1,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,3,3,4,4,4,5,5,4,5,4,3,5,4,5,5,4,3,4,3
+Samar,26,3,1,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,5,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,4,1,1
+Samar,29,9,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,1,3,5,5,5,5,4,5,5,5
+Samar,28,6,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Permanent,Yes,4,5,4,5,5,5,5,5,5,4,5,5,5,3,4,3,4,4,3
+Samar,27,5,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,4,4,4,5,5,4,4,4,3,3,4,4,3,5,4,4,2,2
+Samar,32,10,2,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,No,5,5,5,5,5,4,4,5,5,3,4,5,5,4,4,3,4,5,4
+Samar,22,1,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,2
+Samar,32,11,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,4,5,4,3
+Samar,30,10,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,3,5,3,4,2,2
+Samar,28,6,6,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Permanent,No,3,3,4,4,3,3,3,3,3,5,4,4,4,4,4,4,4,2,3
+Samar,27,7,1,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,3,3,4,4,5,5,1,3,3,5,5,5,4,3,3,3
+Samar,29,8,1,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,No,5,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,3,3
+Samar,23,2,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,3,3
+Samar,26,4,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,5,4,5,4,5,4,4,5,5,4,4,4,4,5,5,5,3,2,2
+Samar,28,7,4,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,5,3,5
+Samar,32,3,Less than 1,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,5,5,4,4,5,5,5,5,5,3,4,4,5,4,5,5,1,4,2
+Samar,26,6,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,4,5,3,5
+Samar,28,6,6,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3
+Samar,21,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3
+Samar,23,3,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,4,5,5,4,4,5,5,2,2,3,5,5,5,5,4,5,3,4
+Samar,24,1,1,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,4,4,4,5,4,5,4,4,4,3,4,4,4,3,4,3,5,4,3
+Samar,31,7,6,BSN,1,Visayas,Married,1,0,Managerial Position,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,2
+Samar,29,4,4,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,5,4,4,5,5,5,5,5,5,5,5,5,5,4,5,5,4,4,4
+Samar,28,7,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,1,2,4,4,4,4,4,4,2,2
+Samar,26,5,2,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,Yes,5,5,4,4,5,5,4,5,4,4,5,5,4,5,5,5,4,5,5
+Samar,28,6,2,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,4,5,5,5,5,5,5,5,4,4,5,5,5,5,3,2,4
+Samar,28,7,5,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4
+Samar,22,2,2,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,4,4,4,3,3,4,4,4,4,4,3,4,3,4,4,4,4,4,4
+Samar,28,9,1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,2,4,5,4,4,4,5,2,3
+Samar,26,8,Less than 1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,2,4,5,5,4,4,5,2,3
+Samar,29,7,7,MAN,2,Visayas,Married,1,0,Staff Nurse,Permanent,Yes,4,4,4,4,4,3,4,4,4,4,4,4,4,3,4,3,4,4,3
+Samar,34,3,3,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,4,2,3,4,2,3,4,2,4,3,3,4,4,4,4,3,3,4,3
+Samar,37,15,10,MAN,2,Visayas,Married,0,0,Staff Nurse,Permanent,Yes,4,4,4,3,4,4,5,5,4,3,3,3,4,2,4,3,4,3,3
+Samar,48,15,10,MAN,2,Visayas,Married,0,0,Staff Nurse,Permanent,Yes,2,3,4,2,3,4,2,4,5,3,3,3,4,4,3,2,2,4,3
+Samar,30,8,8,BSN,1,Visayas,Married,1,0,Staff Nurse,Permanent,Yes,3,3,3,3,3,3,3,3,3,4,3,3,4,3,3,3,3,3,3
+Samar,25,3,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,3,4,4,3,4,4,4,3,4,2,3,3,3,3,4,3,4,3,4
+Samar,22,1,1,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,No,4,3,3,3,4,3,3,3,4,4,3,3,3,3,4,3,3,4,3
+Samar,30,7,2,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,Yes,3,4,3,4,3,4,5,4,3,3,4,4,5,4,4,5,4,5,4
+Samar,23,2,2,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,4,4,5,5,5,5,4,4,4,2,2,4,4,4,5,3,4,3,3
+Samar,24,3,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,3,3,3,2,3,4,3,3,4,4,3,4,3,3,3,3,4,4,3
+Samar,35,4,2,BSN,1,Visayas,Married,0,0,Staff Nurse,Permanent,Yes,4,5,5,4,3,5,5,5,5,2,3,4,5,5,4,4,4,5,5
+Samar,28,7,7,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,Yes,4,4,4,3,4,5,4,4,4,4,4,5,4,4,4,5,4,4,4
+Samar,23,2,2,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,3,4,3,4,4,4,4,4,4,4,4,4,3,4,5,4,3,4,4
+Samar,26,5,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,3,4,4,3,4,3,3,4,3,4,4,4,4,5,4,4,5,4,4
+Samar,38,10,10,MAN,2,Visayas,Married,1,0,Staff Nurse,Permanent,No,4,4,4,5,5,4,4,5,4,2,3,5,4,4,4,3,3,3,3
+Samar,28,6,6,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,Yes,4,4,4,3,4,4,5,5,5,4,5,4,5,4,4,5,4,4,5
+Samar,26,5,5,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,Yes,3,4,3,4,3,4,3,4,4,3,3,3,3,3,3,4,5,5,3
+Samar,32,11,3,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Permanent,Yes,4,5,5,4,5,5,5,5,5,2,4,4,4,3,4,3,4,4,4
+Samar,30,7,2,BSN,1,Visayas,Married,0,0,Staff Nurse,Casual/Part-time,Yes,3,4,4,3,4,3,3,4,4,4,4,5,5,5,5,5,5,5,5
+Samar,22,1,Less than 1,BSN,1,Visayas,Unmarried,1,0,Staff Nurse,Casual/Part-time,No,4,5,4,5,4,4,5,5,5,5,5,4,4,5,4,5,4,4,4
+Samar,30,8,7,BSN,1,Visayas,Married,1,0,Staff Nurse,Casual/Part-time,No,4,4,3,5,4,3,5,5,4,2,3,5,4,4,4,3,4,4,5
+Samar,45,20,20,MAN,2,Visayas,Married,0,0,Staff Nurse,Permanent,Yes,4,4,5,5,4,5,5,5,5,3,4,4,5,5,4,4,5,5,5
+Samar,28,3,3,BSN,1,Visayas,Unmarried,0,0,Staff Nurse,Casual/Part-time,Yes,5,5,5,4,4,5,4,5,5,3,3,4,5,5,5,4,4,4,4
+Online,48,27,21,MA/MS,2,Luzon,Married,1,0,Holds managerial position,Permanent,No,1,1,1,5,5,5,5,5,5,1,1,4,5,5,5,1,5,5,4
+Online,36,13,2,BSN,1,Europe,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,3
+Online,34,14,2,BSN,1,Luzon,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,2,2
+Online,24,3,3,BSN,1,Luzon,Unmarried,1,1,Staff,Casual/Part-time,Yes,4,4,4,5,5,5,5,4,4,2,4,4,4,3,4,4,5,3,3
+Online,22,1,1,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,3,5,5,5,5,5,4,5,5,5,5,5,5,5,3
+Online,34,13,2,,,Visayas,Unmarried,0,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5
+Online,35,10,5,BSN,1,Visayas,Married,1,0,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,1,4,5,5,5,5,2,5,5,4
+Online,34,15,2,BSN,1,Kuwait,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,4,3,3,4,5,4,5,3,4,4,2
+Online,42,15,3,BSN,1,KSA,Married,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,4,5,4,4,4,5,4,5,3,4,4,3
+Online,25,3,3,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,4,5,3,3,4,4,4,5,3,4,3,3
+Online,26,6,,BSN,1,Visayas,Unmarried,1,0,Staff,Permanent,No,3,4,3,4,5,4,5,5,5,2,4,4,4,4,5,3,4,3,3
+Online,33,12,2,MA/MS,2,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4,3
+Online,30,9,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,4,3,4,4,4,4,3,4,4,3
+Online,32,9,2,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,2,4,5,5,5,5,5,5,5,3
+Online,27,6,1,BSN,1,Luzon,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2
+Online,37,14,5,BSN,1,Visayas,Married,1,1,Staff,Casual/Part-time,Yes,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,2
+Online,27,5,Less than 1,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,4,4,3,4,4,5,5,4,3,4,2,3
+Online,35,15,7,MA/MS,2,America,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,3,4,4,4,5,5,5,5,4,5,2,1
+Online,36,10,1,,,Luzon,Unmarried,1,1,Staff,Permanent,No,5,5,4,5,5,5,5,5,5,4,3,4,5,1,5,4,4,4,2
+Online,31,10,Less than 1,BSN,1,America,Married,1,1,Staff,Permanent,Yes,5,5,4,4,5,5,5,4,4,3,2,4,4,4,4,4,1,2,4
+Online,34,11,11,PhD,3,Mindanao,Unmarried,1,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,2,4,5,5,5,5,2,5,2,2
+Online,34,12,11,MA/MS,2,Visayas,Married,1,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,2,3,5,5,4,5,4,4,3,3
+Online,31,9,4,MA/MS,2,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,4,5,5,4,5,5,4,5,3,3,5,4,4,4,4,4,3,4
+Online,28,7,3,MA/MS,2,Visayas,Married,0,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,4,4
+Online,27,5,3,BSN,1,Visayas,Married,1,0,Staff,Casual/Part-time,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,1,4,2
+Online,32,11,10,MA/MS,2,Visayas,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,4,4
+Online,27,7,5,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,3,5,5,5,5,5,5,5,4
+Online,23,2,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,3,3,5,5,5,2,3,4,1
+Online,47,39,8,MA/MS,2,Mindanao,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,28,8,1,BSN,1,Saudi Arabia,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,3
+Online,27,6,3,MA/MS,2,Visayas,Unmarried,0,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,2,3
+Online,32,9,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Online,30,8,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,4,5,5,4,5,5,5,4,3,5,5,5,5,4,3,4,3
+Online,30,7,5,BSN,1,Saudi arabia,Unmarried,1,1,Staff,Permanent,Yes,5,5,4,5,4,4,4,2,5,4,3,4,4,4,4,3,2,4,3
+Online,35,15,1.5,BSN,1,America,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,3
+Online,32,12,6,BSN,1,"Riyadh, KSA",Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,38,9,4,BSN,1,KSA,Unmarried,0,0,Staff,Permanent,No,5,5,5,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,3
+Online,26,6,3,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3
+Online,32,,1,BSN,1,KSA,Married,1,1,Staff,Permanent,Yes,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,2
+Online,62,50,1,MA/MS,2,Mindanao,Married,1,0,Staff,Casual/Part-time,No,5,5,5,4,5,5,5,4,5,4,4,4,4,4,4,4,4,4,2
+Online,35,15,5,MA/MS,2,America,Married,1,1,Staff,Permanent,No,5,5,4,5,5,5,5,4,5,4,4,5,5,5,5,5,5,5,3
+Online,60,,15,PhD,3,oman,Unmarried,1,1,Holds managerial position,Permanent,Yes,5,5,5,5,4,5,4,5,5,2,5,5,5,5,5,3,5,2,2
+Online,30,7.8,7,BSN,1,Australia,Unmarried,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,4,4,3
+Online,27,5,1,BSN,1,Visayas,Married,1,1,Staff,Casual/Part-time,Yes,4,5,5,5,5,5,5,5,5,3,4,5,5,5,4,4,5,4,4
+Online,31,10,4,MA/MS,2,Luzon,Unmarried,0,0,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,2,1,1
+Online,29,9,4,MA/MS,2,Luzon,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,1,5,5,5,5,5,5,5,5,5,4,5,1,5,1
+Online,32,2,1,BSN,1,Visayas,Unmarried,0,1,Staff,Casual/Part-time,Yes,5,5,5,5,4,5,5,5,5,3,5,5,5,5,5,5,5,5,4
+Online,35,15,6,MA/MS,2,Oman,Married,0,0,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Online,38,5,5,MA/MS,2,Mindanao,Unmarried,0,0,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,35,14,5,BSN,1,Visayas,Married,1,1,Staff,Permanent,Yes,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,3,2,2
+Online,40,9,,MA/MS,2,Visayas,Married,1,1,Staff,Permanent,Yes,5,5,5,5,4,5,5,5,5,3,4,4,5,4,5,4,3,4,4
+Online,33,12,9,MA/MS,2,Visayas,Unmarried,0,0,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,2,4,5,5,5,5,5,5,5,5
+Online,36,15,2,MA/MS,2,America,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,3,1
+Online,26,3,1,BSN,1,America,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,1,5,3,3,1,2
+Online,55,26,11,,,Mindanao,Married,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3,3,3,2
+Online,50,28,12,BSN,1,Luzon,Married,1,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,2,4
+Online,35,15,10,BSN,1,America,Unmarried,1,1,Staff,Permanent,Yes,4,5,5,5,4,5,5,5,5,4,4,5,5,3,4,4,2,3,2
+Online,36,15,15,PhD,3,Canada,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5
+Online,33,10,8,BSN,1,Luzon,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,,5,4,3
+Online,34,18,6,PhD,3,middle east,Unmarried,1,0,Holds managerial position,Permanent,Yes,4,4,4,4,4,4,4,4,4,3,5,5,5,5,4,5,4,2,3
+Online,29,9,7,BSN,1,Asia,Unmarried,1,1,Staff,Permanent,Yes,5,4,5,5,3,5,5,5,5,4,4,5,5,4,4,3,4,4,2
+Online,42,22,12,BSN,1,America,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4,3
+Online,52,27,27,PhD,3,Asia,Married,1,1,Holds managerial position,Permanent,Yes,4,4,5,5,5,5,4,5,5,3,2,4,4,4,4,4,4,3,2
+Online,29,8,6,BSN,1,Europe,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,4,4,4,4,4,3,4,3,3
+Online,34,12,7,BSN,1,Asia,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,4,5,4,3
+Online,30,10,3,,,Visayas,Married,0,0,Staff,Permanent,Yes,5,5,5,5,4,5,5,5,5,2,4,5,5,5,4,3,4,4,2
+Online,26,5,Less than 1,BSN,1,Mindanao,Married,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,5,5,5,4,4,3,4,3,3
+Online,26,4,4,BSN,1,Visayas,Married,1,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,3,4,5,5,4,5,3,4,5,2
+Online,29,10,5,MA/MS,2,Europe,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,4,4,4,4,3,3
+Online,37,17,3,BSN,1,Australia,Married,1,1,Staff,Casual/Part-time,Yes,1,1,1,1,1,1,1,1,1,5,5,5,5,5,5,5,5,5,5
+Online,35,15,1,BSN,1,America,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,4
+Online,37,19,14,MA/MS,2,Asia,Married,0,1,Staff,Permanent,No,5,4,5,5,5,5,4,5,5,4,3,4,4,4,5,3,4,5,2
+Online,42,18,8,MA/MS,2,Mindanao,Married,1,0,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,4
+Online,42,21,6,MA/MS,2,Oman,Married,1,0,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2
+Online,40,15,15,BSN,1,United Arab Emirates,Married,1,0,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,4,5,4,4,5,3
+Online,50,25,4,MA/MS,2,Luzon,Married,1,1,Holds managerial position,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,4
+Online,28,4,4,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,4,4
+Online,35,15,2,MA/MS,2,Canada,Married,1,1,Holds managerial position,Permanent,Yes,5,5,5,5,3,5,5,5,5,5,5,5,5,5,3,2,5,4,2
+Online,37,13,2,MA/MS,2,Luzon,Married,1,1,Holds managerial position,Permanent,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,3
+Online,23,2,2,,,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,4,4,4,4,4,4,4,5
+Online,30,10,3,BSN,1,Europe,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,5,3,2
+Online,23,2,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,30,9,6,MA/MS,2,Visayas,Married,1,1,Staff,Casual/Part-time,Yes,5,4,5,4,4,4,5,5,5,2,4,5,4,5,5,5,5,2,4
+Online,27,5,4,BSN,1,Visayas,Unmarried,1,0,Holds managerial position,Permanent,No,5,4,4,4,4,5,5,5,5,5,4,5,4,4,4,4,2,4,2
+Online,,,,MA/MS,2,America,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,4,5,5,5,4,4,5,5,5,4,4,5,4,4,2
+Online,31,4,3,BSN,1,Luzon,Unmarried,0,0,Staff,Permanent,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Online,32,9,4,BSN,1,Visayas,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,4,5,5,4,4,5,5,5,4,3,3,2,4
+Online,30,8,2,MA/MS,2,Visayas,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,30,5,1.7,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,4,4
+Online,35,12,7,MA/MS,2,Asia,Married,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5
+Online,25,4,3.6,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,4,4,5,5,5,5,5,5,5,4,4,4,4,4,4,2,1,2,4
+Online,28,8,7,BSN,1,Luzon,Unmarried,1,1,Holds managerial position,Permanent,No,5,5,4,4,5,5,4,5,5,3,4,4,4,4,4,4,4,4,3
+Online,35,15,5,BSN,1,America,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5,4,2
+Online,32,10,10,MA/MS,2,Luzon,Unmarried,0,1,Holds managerial position,Permanent,Yes,1,1,1,1,1,1,1,1,1,5,5,5,5,5,5,5,5,5,3
+Online,21,1,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,4,5,5,5,4,4,4,5,4,4,5,3,4,5,5,3,4,2
+Online,31,9,5,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1
+Online,29,3,1,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,No,5,4,4,5,4,5,5,5,5,5,4,5,4,5,5,4,4,3,3
+Online,28,7,7,BSN,1,Visayas,Unmarried,1,0,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,3,3,4,4,4,3,4,2,2
+Online,26,5,2,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,2,3,5,5,4,5,4,5,3,3
+Online,30,10,2,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,No,5,4,5,5,5,5,5,5,5,2,4,5,5,5,5,5,2,3,5
+Online,27,5,4,BSN,1,Visayas,Married,1,0,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,3,3,4,5,5,5,4,3,3,2
+Online,36,15,12,MA/MS,2,America,Married,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,3,3,2
+Online,27,4,2,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Online,26,5,5,BSN,1,Europe,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,3,4,5,5,3,5,5,5,5,5,4,3,4,1
+Online,35,13,4,BSN,1,Asia,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,2,4,4,4,5,4,5,4,2
+Online,32,12,4,MA/MS,2,Luzon,Unmarried,1,1,Staff,Permanent,Yes,5,4,4,5,5,5,4,4,5,2,4,5,5,4,5,5,5,4,3
+Online,36,15,3,BSN,1,Canada,Married,0,1,Staff,Permanent,Yes,4,4,4,4,1,5,5,4,5,5,4,5,5,5,2,4,2,1,2
+Online,31,9,3,BSN,1,Visayas,Married,0,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,2,5,4,2
+Online,46,23,17,BSN,1,Europe,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,3
+Online,46,25,12,BSN,1,America,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1
+Online,27,5,2,PhD,3,Mindanao,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,4,5,5,4,5,5,5,3,3,4,5,4,5,4,4,2,3
+Online,34,10,Less than 1,BSN,1,Luzon,Married,1,0,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,2,4,4,2
+Online,33,13,2,MA/MS,2,Luzon,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,,5,4,4,4,4,4,4,4,4,4,4
+Online,25,5,4,MA/MS,2,Luzon,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,4,5,5,5,5,3,4,5,5,5,5,5,5,5,5
+Online,28,5,1,BSN,1,Luzon,Unmarried,0,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,2,3,5,5,4,3,2,4,4,3
+Online,32,8,3,BSN,1,Visayas,Unmarried,1,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,3
+Online,24,4,2,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,3,4,4,5,5,4,5,3,3,4,4,,,,,,4,3,3
+Online,27,7,3,BSN,1,America,Unmarried,0,0,Staff,Permanent,Yes,5,3,5,5,5,5,5,5,5,5,3,5,5,4,5,5,5,4,2
+Online,24,1,1,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,4,3,5,5,5,4,5,5,5,5,5,5,4,4,4
+Online,32,11,1,BSN,1,Asia,Unmarried,1,0,Staff,Permanent,No,5,5,5,4,4,5,5,5,5,5,5,5,5,5,3,5,3,5,1
+Online,28,7,1,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,2
+Online,28,5,2,,,Visayas,Married,1,0,Staff,Permanent,No,5,5,5,4,5,5,5,5,5,4,4,4,5,4,4,4,4,4,3
+Online,24,5,1,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,4,5,5,5,5,5,5,5,3,3,5,5,5,4,3,4,4,3
+Online,28,8,5,BSN,1,Visayas,Unmarried,0,0,Holds managerial position,Casual/Part-time,No,5,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,3
+Online,59,40,5,MA/MS,2,America,Married,1,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,2,2
+Online,25,3,1,BSN,1,Kingdom of Saudi Arabia,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5,4,4,4,2
+Online,24,4,1.5,BSN,1,Saudi arabia,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,3
+Online,34,13,9,MA/MS,2,Visayas,Unmarried,1,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,1,2,5,5,5,5,2,5,5,5
+Online,26,5,1,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5
+Online,31,10,2,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,No,5,5,5,5,2,5,5,5,5,4,5,5,5,4,5,5,3,4,3
+Online,29,7,,BSN,1,Visayas,Unmarried,1,0,,,No,4,4,4,4,3,4,4,4,4,4,4,5,5,5,5,5,3,3,3
+Online,27,5,4,BSN,1,Visayas,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,3
+Online,29,8,3,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,No,5,5,5,5,4,5,5,5,5,4,4,5,5,4,4,4,3,3,2
+Online,35,14,13,MA/MS,2,Luzon,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4,2
+Online,29,6,5,BSN,1,Middle east,Unmarried,0,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,2
+Online,26,5,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,4,3,3,2,2
+Online,30,10,2,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,Yes,5,5,4,5,3,5,5,5,5,4,5,5,5,4,4,4,3,2,3
+Online,33,11,4,MA/MS,2,Visayas,Unmarried,0,0,Holds managerial position,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,2,2,5,5,4,4,2,5,4,4
+Online,29,9,2,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,No,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,4,3,4,4
+Online,25,4,1,BSN,1,"Madina, saudi arabia",Unmarried,1,0,Staff,Casual/Part-time,Yes,5,5,4,5,5,4,5,5,5,3,2,4,5,5,5,4,5,2,2
+Online,23,3,Less than 1,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,4,5,4,4,4,5,4,4,2,2,4,4,5,5,2,5,4,4
+Online,24,2,2,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,2,5,5,5,3,5,3,5,2,2
+Online,29,8,3,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,2,2,5,5,4,4,4,4,3,4
+Online,47,26,11,MA/MS,2,Visayas,Married,1,1,Staff,Permanent,No,1,1,1,1,1,1,1,1,1,2,5,5,5,5,5,3,3,1,4
+Online,24,3,1,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,4,5,5,4,4,4,5,4,4
+Online,35,14,4,MA/MS,2,Visayas,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,4,4,5
+Online,25,4,2,BSN,1,Visayas,Unmarried,1,0,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,2,5,5,5,5,5,4,4,4,2
+Online,33,10,9,BSN,1,Luzon,Married,1,0,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Online,26,3,3,BSN,1,Kingdom of saudia arabia,Unmarried,1,0,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,2,4,5,5,4,4,4,4,4,3
+Online,30,9,4,BSN,1,Saudi Arabia,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,4,3
+Online,26,5,3,BSN,1,Kingdom of Saudi Arabia,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,1,3,5,5,5,5,2,4,5,1
+Online,30,8,7,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,4,5,5,5,5,5,4,5,5,5,5,3,4,4,4
+Online,30,8,2,BSN,1,Visayas,Unmarried,0,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,1,4,5,5,5,5,4,2,4,3
+Online,,5,1,BSN,1,Saudi arabia,Unmarried,1,0,Staff,Permanent,Yes,5,5,4,5,5,5,4,5,5,5,5,5,5,4,5,4,5,4,4
+Online,25,5,1,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,1,3,5,5,4,5,3,5,3,3
+Online,30,3,0,BSN,1,America,Married,1,0,,,No,4,4,4,3,4,4,4,5,4,3,1,4,4,3,5,3,4,4,3
+Online,31,9,7,BSN,1,Visayas,Married,1,1,Staff,Permanent,Yes,5,5,5,5,4,5,4,5,5,2,4,4,5,4,5,4,5,4,5
+Online,26,3,3,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,Yes,5,4,3,5,5,5,5,5,5,2,3,5,5,5,5,4,5,2,2
+Online,30,9,1,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,2
+Online,29,4,4,BSN,1,Visayas,Unmarried,0,0,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,3,3,5,5,5,5,3,5,3,3
+Online,26,4,3.7,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,4,3
+Online,23,2,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,4,4,4,4,5,2,5,4,3
+Online,28,6,6,BSN,1,Visayas,Unmarried,1,0,Staff,Casual/Part-time,No,4,4,4,3,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4
+Online,30,9,6,BSN,1,Visayas,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,4,5,4,2,5,5,5,5,3,5,3,4
+Online,28,5,4,BSN,1,Visayas,Unmarried,1,1,Holds managerial position,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,5,4,3
+Online,24,3,3,BSN,1,Visayas,Unmarried,0,1,Holds managerial position,Permanent,Yes,5,5,4,5,5,5,5,5,5,4,4,5,5,5,5,5,4,3,2
+Online,34,12,Less than 1,MA/MS,2,America,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Online,28,5,3,BSN,1,Luzon,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Online,37,15,3,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,4,4
+Online,33,13,3,MA/MS,2,Visayas,Unmarried,0,1,Staff,Permanent,No,5,5,4,5,5,5,5,5,5,4,5,5,5,4,5,5,2,2,2
+Online,30,9,2.7,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,2,4,1,2
+Online,28,7,3,MA/MS,2,Visayas,Unmarried,0,0,Staff,Casual/Part-time,Yes,5,5,4,5,4,5,5,5,5,5,4,4,5,4,4,4,4,5,4
+Online,29,6,1,MA/MS,2,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,1,3,4,5,5,5,3,5,3,3
+Online,25,4,4,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,3
+Online,20,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,0,0,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4,2
+Online,38,12,2,BSN,1,Asia,Unmarried,1,1,Staff,Permanent,Yes,5,5,4,5,5,5,5,5,4,5,4,5,5,5,5,5,5,5,2
+Online,30,9,,MA/MS,2,Europe,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,1,5,4,5,2,2
+Online,32,12,4,MA/MS,2,Asia,Unmarried,0,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,5
+Online,31,10,4,MA/MS,2,Visayas,Married,0,1,Staff,Permanent,No,1,1,1,1,1,1,1,1,1,4,4,5,5,5,5,4,4,3,3
+Online,24,2,2,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,4,5,1
+Online,30,9,Less than 1,,,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5,5,5,5,2
+Online,23,Less than 1,Less than 1,BSN,1,Visayas,Unmarried,0,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,3,5,5,4,5,5,4,4,2
+Online,25,4,4,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,3
+Online,26,5,3,BSN,1,Visayas,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,2
+Online,36,15,3,BSN,1,Visayas,Married,1,1,Staff,Permanent,Yes,5,4,5,3,5,5,5,4,5,3,2,2,5,4,5,3,4,2,3
+Online,26,4,2,BSN,1,Mindanao,Unmarried,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,4,5,4,2,4,4,4,5,3,5,4,4
+Online,30,7,1,BSN,1,America,Married,1,0,,Permanent,No,5,5,5,5,5,5,5,5,5,4,4,4,5,4,5,3,4,5,3
+Online,29,8,2,BSN,1,Visayas,Unmarried,1,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,1,3
+Online,30,8,4,BSN,1,Visayas,Married,1,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,1,3,5,5,5,5,5,5,4,4
+Online,28,4,2,BSN,1,Visayas,Unmarried,0,0,Holds managerial position,Casual/Part-time,No,5,5,5,5,3,5,5,5,5,5,3,4,4,5,4,4,4,3,2
+Online,26,3,2,BSN,1,Visayas,Unmarried,0,1,Staff,Casual/Part-time,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,3
+Online,41,12,12,MA/MS,2,Visayas,Married,0,0,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,5,4,5,4,4,5,5,5,4,4
+Online,28,7,7,BSN,1,Visayas,Unmarried,0,1,Staff,Permanent,Yes,5,5,5,5,5,5,5,5,5,3,3,4,4,5,5,4,5,4,4
+Online,30,10,2,BSN,1,Visayas,Married,1,1,Staff,Casual/Part-time,No,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,4,5,5
+Online,30,9,7,MA/MS,2,Luzon,Married,1,1,Staff,Permanent,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1
